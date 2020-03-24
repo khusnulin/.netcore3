@@ -1,4 +1,8 @@
 Here are the instructions
 
+<<<<<<< HEAD
 
 And...
+=======
+Please refer to next website:
+>>>>>>> f1e754fd795e42fef6b44bf73e476283865e9209
